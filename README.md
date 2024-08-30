@@ -22,7 +22,7 @@ The Memory Game is a fun and interactive single-player web game developed using 
 
 ## Demo
 
-Check out the live demo of the game [here](#) (Replace `#` with your actual demo link).
+Check out the live demo of the game [here](https://memorygameguvi.netlify.app/)
 
 ## Technologies Used
 
