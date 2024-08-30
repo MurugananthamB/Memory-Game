@@ -34,10 +34,6 @@ Check out the live demo of the game [here](#) (Replace `#` with your actual demo
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are welcome and appreciated!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by classic memory games.
