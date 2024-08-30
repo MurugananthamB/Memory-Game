@@ -26,8 +26,8 @@ Check out the live demo of the game [here](https://memorygameguvi.netlify.app/)
 
 ## Technologies Used
 
-- **HTML5**: Structure and content of the game.
-- **CSS3**: Styling and layout of the game.
+- **HTML**: Structure and content of the game.
+- **CSS**: Styling and layout of the game.
 - **JavaScript**: Game logic and interactivity.
 
 ## Contributing
